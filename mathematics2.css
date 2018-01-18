@@ -1,0 +1,95 @@
+body{
+	background-image: url(cap.jpg);
+	
+
+
+}
+
+
+#one{
+	float: left;
+	padding:10px; 
+	
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+     background-image: url(bubble.jpg);
+}
+
+#two{
+	float: left;
+padding:10px; 
+	background-color:black;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+	 background-image: url(bubble.jpg);
+
+}
+
+#three{
+	float: left;
+	padding:10px; 
+	background-color:black;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+	 background-image: url(bubble.jpg);
+
+}
+
+#four{
+	float: left;
+	padding:10px; 
+	background-color:black;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+	 background-image: url(bubble.jpg);
+}
+
+#five{
+	float: left;
+	padding:10px; 
+	background-color:black;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+	 background-image: url(bubble.jpg);
+
+}
+
+#six{
+	float: left;
+	padding:10px; 
+	background-color:black;
+	margin:10px;
+	border-radius:20px;
+	text-align: center;
+	width:300px;
+	height:180px;
+     background-image: url(bubble.jpg);
+
+
+}
+
+#seven{
+     background-image: url(bubble.jpg);
+}
+
+#eight{
+     background-image: url(bubble.jpg);
+}
+#nine{
+     background-image: url(bubble.jpg);
+}

@@ -1,0 +1,88 @@
+body{
+	background-color: white;
+    width: 1000px;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 0%;
+    background-image: url(cap.jpg);
+}
+
+#physics{
+    float: left;
+	padding:10px; 
+	background-color:whitesmoke;
+	border-radius:20px;
+	text-align: center;
+    width:400px;
+	height:200px;	
+    font-size: 50px;
+    margin: 10px;
+	background-image: url(chem.png);
+}
+
+#mathematics{
+    float: left;
+	padding:10px; 
+	background-color:dimgray;
+	border-radius:20px;
+	text-align: center;
+    width:400px;
+	height:200px;
+	font-size: 50px;
+    margin: 10px;
+    background-image: url(math.jpg);
+    
+}
+
+
+#geo{
+    float: left;
+	padding:10px; 
+	background-color:purple;
+	border-radius:20px;
+	text-align: center;
+    width:400px;
+	height:200px;
+    font-size: 50px;
+    margin: 10px;
+    background-image: url(geo.jpg);
+}
+
+#life{
+    float: left;
+	padding:10px; 
+	background-color:green;
+	border-radius:20px;
+	text-align: center;
+    width:400px;
+	height:200px;
+	font-size: 50px;
+    margin: 10px;
+    background-image: url(lifes.jpg) ; 
+    
+}
+
+.btn1{
+     background-image: url(bubble.jpg);
+}
+.btn2{
+     background-image: url(bubble.jpg);
+}
+.btn3{
+     background-image: url(bubble.jpg);
+}
+.btn4{
+     background-image: url(bubble.jpg);
+}
+
+.footer{
+				width: 880px;
+				color: black; 
+				border: 2px solid; 
+				border-color: cyan; 
+				background-color: gray; 
+				text-align: center;
+                position: fixed;
+                bottom: 50px;
+                background-image: url(bubble.jpg)
+}

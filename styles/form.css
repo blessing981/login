@@ -1,0 +1,48 @@
+body{
+	background-color: white;
+	width: 100%; 
+}
+
+
+.header {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: gray;
+	text-align: center;
+	border: 2px solid gray;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+#age{
+	size: 5px;
+	position: right;
+}
+#form{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 2px solid gray;
+	background: white;
+	border-radius: 0px 0px 15px 15px;
+	text-align: left;
+}
+
+#button{
+	color: white;
+	background-color:black;
+	border-radius: 10px 10px 10px 10px; 
+}
+
+.error {
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px; 
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left; 
+}
